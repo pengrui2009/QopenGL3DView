@@ -4,6 +4,11 @@ Current we base on ubuntu 16.04 build and run,if you want to run in another envi
 
 QT 3D view base on openGL, support 3D files formats obj,mtl,sda,dae... 
 
+# View
+
+![image](https://github.com/pengrui2009/QopenGL3DView/blob/main/resources/images/truck.png)
+
+
 # Function
 
 1.load .obj and .tml base on assimp.

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ads_fragment.frag</file>
+        <file>ads_fragment.vert</file>
+        <file>es_ads_fragment.vert</file>
+        <file>es_ads_fragment.frag</file>
+        <file>resources/model/demon_head.3ds</file>
+        <file>resources/model/velociraptor_mesh_materials.dae</file>
+    </qresource>
+</RCC>
