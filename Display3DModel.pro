@@ -37,8 +37,8 @@ macx {
 }
 
 win32 {
-    INCLUDEPATH += "C:/Assimp3/include"
-    LIBS += -L"C:/Assimp3/lib/Release" -lassimp
+    INCLUDEPATH += "$$PWD\third-party\include"
+    LIBS += -L"$$PWD\third-party\library" -lassimp
 }
 
 OTHER_FILES += ads_fragment.vert ads_fragment.frag \
@@ -47,3 +47,5 @@ OTHER_FILES += ads_fragment.vert ads_fragment.frag \
 
 RESOURCES += \
     resources.qrc
+
+
